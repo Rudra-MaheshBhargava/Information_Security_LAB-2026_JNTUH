@@ -8,7 +8,15 @@ This repository contains practical implementations of cryptographic algorithms, 
 
 ## Laboratory Experiments
 
-### 1. Ciphers
+### 1. Authentication_and_Confidentiality_Models
+
+| File Name | Link |
+|---|---|
+| Authentication_Model.py | [View File](Authentication_and_Confidentiality_Models/Authentication_Model.py) |
+| Combined_Confidentiality_Authentication.py | [View File](Authentication_and_Confidentiality_Models/Combined_Confidentiality_Authentication.py) |
+| Confidentiality_Model.py | [View File](Authentication_and_Confidentiality_Models/Confidentiality_Model.py) |
+
+### 2. Ciphers
 
 | File Name | Link |
 |---|---|
@@ -29,7 +37,7 @@ This repository contains practical implementations of cryptographic algorithms, 
 | row_transposition_client.py | [View File](Ciphers/row_transposition_client.py) |
 | row_transposition_server.py | [View File](Ciphers/row_transposition_server.py) |
 
-### 2. Modes_of_Operation
+### 3. Modes_of_Operation
 
 | File Name | Link |
 |---|---|
@@ -40,7 +48,7 @@ This repository contains practical implementations of cryptographic algorithms, 
 | Message_Padding.py | [View File](Modes_of_Operation/Message_Padding.py) |
 | Output_Feedback_OFB.py | [View File](Modes_of_Operation/Output_Feedback_OFB.py) |
 
-### 3. Random_Number_Generators
+### 4. Random_Number_Generators
 
 | File Name | Link |
 |---|---|
@@ -50,7 +58,7 @@ This repository contains practical implementations of cryptographic algorithms, 
 | Pseudo_Random_Number_Generator_PRNG.py | [View File](Random_Number_Generators/Pseudo_Random_Number_Generator_PRNG.py) |
 | True_Random_Number_Generator_TRNG.py | [View File](Random_Number_Generators/True_Random_Number_Generator_TRNG.py) |
 
-### 4. Steganography
+### 5. Steganography
 
 | File Name | Link |
 |---|---|
@@ -60,7 +68,7 @@ This repository contains practical implementations of cryptographic algorithms, 
 | steganography_client.py | [View File](Steganography/steganography_client.py) |
 | steganography_server.py | [View File](Steganography/steganography_server.py) |
 
-### 5. Symmetric_Key_Cryptography
+### 6. Symmetric_Key_Cryptography
 
 | File Name | Link |
 |---|---|
@@ -70,6 +78,6 @@ This repository contains practical implementations of cryptographic algorithms, 
 
 ---
 
-**Total Files:** 35
+**Total Files:** 38
 
 *README automatically generated using GitHub Actions.*
