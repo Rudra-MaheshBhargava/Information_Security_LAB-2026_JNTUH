@@ -48,7 +48,15 @@ This repository contains practical implementations of cryptographic algorithms, 
 | Message_Padding.py | [View File](Modes_of_Operation/Message_Padding.py) |
 | Output_Feedback_OFB.py | [View File](Modes_of_Operation/Output_Feedback_OFB.py) |
 
-### 4. Random_Number_Generators
+### 4. Public_Key_Cryptography
+
+| File Name | Link |
+|---|---|
+| Diffie_Hellman_Key_Exchange.py | [View File](Public_Key_Cryptography/Diffie_Hellman_Key_Exchange.py) |
+| Elliptic_Curve_Cryptography_ECC.py | [View File](Public_Key_Cryptography/Elliptic_Curve_Cryptography_ECC.py) |
+| RSA_Algorithm.py | [View File](Public_Key_Cryptography/RSA_Algorithm.py) |
+
+### 5. Random_Number_Generators
 
 | File Name | Link |
 |---|---|
@@ -58,7 +66,7 @@ This repository contains practical implementations of cryptographic algorithms, 
 | Pseudo_Random_Number_Generator_PRNG.py | [View File](Random_Number_Generators/Pseudo_Random_Number_Generator_PRNG.py) |
 | True_Random_Number_Generator_TRNG.py | [View File](Random_Number_Generators/True_Random_Number_Generator_TRNG.py) |
 
-### 5. Steganography
+### 6. Steganography
 
 | File Name | Link |
 |---|---|
@@ -68,7 +76,7 @@ This repository contains practical implementations of cryptographic algorithms, 
 | steganography_client.py | [View File](Steganography/steganography_client.py) |
 | steganography_server.py | [View File](Steganography/steganography_server.py) |
 
-### 6. Symmetric_Key_Cryptography
+### 7. Symmetric_Key_Cryptography
 
 | File Name | Link |
 |---|---|
@@ -78,6 +86,6 @@ This repository contains practical implementations of cryptographic algorithms, 
 
 ---
 
-**Total Files:** 38
+**Total Files:** 41
 
 *README automatically generated using GitHub Actions.*
