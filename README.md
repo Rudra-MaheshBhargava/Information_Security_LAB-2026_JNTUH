@@ -56,7 +56,7 @@ This repository contains practical implementations of cryptographic algorithms, 
 |---|---|
 | colourtograyscale.py | [View File](Steganography/colourtograyscale.py) |
 | MSB-LSB.py | [View File](Steganography/MSB-LSB.py) |
-| Pixel values.py | [View File](Steganography/Pixel%20values.py) |
+| Pixel_values.py | [View File](Steganography/Pixel_values.py) |
 | steganography_client.py | [View File](Steganography/steganography_client.py) |
 | steganography_server.py | [View File](Steganography/steganography_server.py) |
 
