@@ -29,7 +29,18 @@ This repository contains practical implementations of cryptographic algorithms, 
 | row_transposition_client.py | [View File](Ciphers/row_transposition_client.py) |
 | row_transposition_server.py | [View File](Ciphers/row_transposition_server.py) |
 
-### 2. Steganography
+### 2. Modes_of_Operation
+
+| File Name | Link |
+|---|---|
+| Cipher_Block_Chaining_CBC.py | [View File](Modes_of_Operation/Cipher_Block_Chaining_CBC.py) |
+| Cipher_Feedback_CFB.py | [View File](Modes_of_Operation/Cipher_Feedback_CFB.py) |
+| Counter_CTR.py | [View File](Modes_of_Operation/Counter_CTR.py) |
+| Electronic_Codebook_ECB_Mode.py | [View File](Modes_of_Operation/Electronic_Codebook_ECB_Mode.py) |
+| Message_Padding.py | [View File](Modes_of_Operation/Message_Padding.py) |
+| Output_Feedback_OFB.py | [View File](Modes_of_Operation/Output_Feedback_OFB.py) |
+
+### 3. Steganography
 
 | File Name | Link |
 |---|---|
@@ -39,7 +50,7 @@ This repository contains practical implementations of cryptographic algorithms, 
 | steganography_client.py | [View File](Steganography/steganography_client.py) |
 | steganography_server.py | [View File](Steganography/steganography_server.py) |
 
-### 3. Symmetric_Key_Cryptography
+### 4. Symmetric_Key_Cryptography
 
 | File Name | Link |
 |---|---|
@@ -49,6 +60,6 @@ This repository contains practical implementations of cryptographic algorithms, 
 
 ---
 
-**Total Files:** 24
+**Total Files:** 30
 
 *README automatically generated using GitHub Actions.*
