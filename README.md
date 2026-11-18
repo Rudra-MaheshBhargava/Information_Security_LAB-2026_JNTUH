@@ -39,8 +39,16 @@ This repository contains practical implementations of cryptographic algorithms, 
 | steganography_client.py | [View File](Steganography/steganography_client.py) |
 | steganography_server.py | [View File](Steganography/steganography_server.py) |
 
+### 3. Symmetric_Key_Cryptography
+
+| File Name | Link |
+|---|---|
+| bowl_fish.py | [View File](Symmetric_Key_Cryptography/bowl_fish.py) |
+| DES_ALGORITHM_Scratch.py | [View File](Symmetric_Key_Cryptography/DES_ALGORITHM_Scratch.py) |
+| Feistel_Cipher.py | [View File](Symmetric_Key_Cryptography/Feistel_Cipher.py) |
+
 ---
 
-**Total Files:** 21
+**Total Files:** 24
 
 *README automatically generated using GitHub Actions.*
