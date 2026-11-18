@@ -40,7 +40,17 @@ This repository contains practical implementations of cryptographic algorithms, 
 | Message_Padding.py | [View File](Modes_of_Operation/Message_Padding.py) |
 | Output_Feedback_OFB.py | [View File](Modes_of_Operation/Output_Feedback_OFB.py) |
 
-### 3. Steganography
+### 3. Random_Number_Generators
+
+| File Name | Link |
+|---|---|
+| ANSI_X9_17_PRNG.py | [View File](Random_Number_Generators/ANSI_X9_17_PRNG.py) |
+| Blum_Blum_Shub_BBS.py | [View File](Random_Number_Generators/Blum_Blum_Shub_BBS.py) |
+| Linear_Congruential_Generator_LCG.py | [View File](Random_Number_Generators/Linear_Congruential_Generator_LCG.py) |
+| Pseudo_Random_Number_Generator_PRNG.py | [View File](Random_Number_Generators/Pseudo_Random_Number_Generator_PRNG.py) |
+| True_Random_Number_Generator_TRNG.py | [View File](Random_Number_Generators/True_Random_Number_Generator_TRNG.py) |
+
+### 4. Steganography
 
 | File Name | Link |
 |---|---|
@@ -50,7 +60,7 @@ This repository contains practical implementations of cryptographic algorithms, 
 | steganography_client.py | [View File](Steganography/steganography_client.py) |
 | steganography_server.py | [View File](Steganography/steganography_server.py) |
 
-### 4. Symmetric_Key_Cryptography
+### 5. Symmetric_Key_Cryptography
 
 | File Name | Link |
 |---|---|
@@ -60,6 +70,6 @@ This repository contains practical implementations of cryptographic algorithms, 
 
 ---
 
-**Total Files:** 30
+**Total Files:** 35
 
 *README automatically generated using GitHub Actions.*
