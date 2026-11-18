@@ -72,7 +72,21 @@ This repository contains practical implementations of cryptographic algorithms, 
 | Message_Padding.py | [View File](Modes_of_Operation/Message_Padding.py) |
 | Output_Feedback_OFB.py | [View File](Modes_of_Operation/Output_Feedback_OFB.py) |
 
-### 6. Public_Key_Cryptography
+### 6. Placement_of_Encryption
+
+| File Name | Link |
+|---|---|
+| E2EE_+_L2L_Encryption/Client.py | [View File](Placement_of_Encryption/E2EE_%2B_L2L_Encryption/Client.py) |
+| E2EE_+_L2L_Encryption/Router.py | [View File](Placement_of_Encryption/E2EE_%2B_L2L_Encryption/Router.py) |
+| E2EE_+_L2L_Encryption/Server.py | [View File](Placement_of_Encryption/E2EE_%2B_L2L_Encryption/Server.py) |
+| E2EE_+_L2L_Encryption/server_public.pem | [View File](Placement_of_Encryption/E2EE_%2B_L2L_Encryption/server_public.pem) |
+| End_to_End_Encryption/E2EE_Client.py | [View File](Placement_of_Encryption/End_to_End_Encryption/E2EE_Client.py) |
+| End_to_End_Encryption/E2EE_Server.py | [View File](Placement_of_Encryption/End_to_End_Encryption/E2EE_Server.py) |
+| Link_to_Link_Encryption/client.py | [View File](Placement_of_Encryption/Link_to_Link_Encryption/client.py) |
+| Link_to_Link_Encryption/router.py | [View File](Placement_of_Encryption/Link_to_Link_Encryption/router.py) |
+| Link_to_Link_Encryption/server.py | [View File](Placement_of_Encryption/Link_to_Link_Encryption/server.py) |
+
+### 7. Public_Key_Cryptography
 
 | File Name | Link |
 |---|---|
@@ -80,7 +94,7 @@ This repository contains practical implementations of cryptographic algorithms, 
 | Elliptic_Curve_Cryptography_ECC.py | [View File](Public_Key_Cryptography/Elliptic_Curve_Cryptography_ECC.py) |
 | RSA_Algorithm.py | [View File](Public_Key_Cryptography/RSA_Algorithm.py) |
 
-### 7. Random_Number_Generators
+### 8. Random_Number_Generators
 
 | File Name | Link |
 |---|---|
@@ -90,7 +104,7 @@ This repository contains practical implementations of cryptographic algorithms, 
 | Pseudo_Random_Number_Generator_PRNG.py | [View File](Random_Number_Generators/Pseudo_Random_Number_Generator_PRNG.py) |
 | True_Random_Number_Generator_TRNG.py | [View File](Random_Number_Generators/True_Random_Number_Generator_TRNG.py) |
 
-### 8. Steganography
+### 9. Steganography
 
 | File Name | Link |
 |---|---|
@@ -100,7 +114,7 @@ This repository contains practical implementations of cryptographic algorithms, 
 | steganography_client.py | [View File](Steganography/steganography_client.py) |
 | steganography_server.py | [View File](Steganography/steganography_server.py) |
 
-### 9. Symmetric_Key_Cryptography
+### 10. Symmetric_Key_Cryptography
 
 | File Name | Link |
 |---|---|
@@ -110,6 +124,6 @@ This repository contains practical implementations of cryptographic algorithms, 
 
 ---
 
-**Total Files:** 55
+**Total Files:** 64
 
 *README automatically generated using GitHub Actions.*
