@@ -16,7 +16,16 @@ This repository contains practical implementations of cryptographic algorithms, 
 | Combined_Confidentiality_Authentication.py | [View File](Authentication_and_Confidentiality_Models/Combined_Confidentiality_Authentication.py) |
 | Confidentiality_Model.py | [View File](Authentication_and_Confidentiality_Models/Confidentiality_Model.py) |
 
-### 2. Ciphers
+### 2. Authentication_Applications
+
+| File Name | Link |
+|---|---|
+| Kerberos_Authentication/Authentication_server.py | [View File](Authentication_Applications/Kerberos_Authentication/Authentication_server.py) |
+| Kerberos_Authentication/Client.py | [View File](Authentication_Applications/Kerberos_Authentication/Client.py) |
+| Kerberos_Authentication/Service_Server.py | [View File](Authentication_Applications/Kerberos_Authentication/Service_Server.py) |
+| Kerberos_Authentication/Ticket_Granting_Server.py | [View File](Authentication_Applications/Kerberos_Authentication/Ticket_Granting_Server.py) |
+
+### 3. Ciphers
 
 | File Name | Link |
 |---|---|
@@ -37,7 +46,7 @@ This repository contains practical implementations of cryptographic algorithms, 
 | row_transposition_client.py | [View File](Ciphers/row_transposition_client.py) |
 | row_transposition_server.py | [View File](Ciphers/row_transposition_server.py) |
 
-### 3. Digital_Signatures_and_Authentication_Protocols
+### 4. Digital_Signatures_and_Authentication_Protocols
 
 | File Name | Link |
 |---|---|
@@ -54,14 +63,14 @@ This repository contains practical implementations of cryptographic algorithms, 
 | Needham_Schroeder_Authentication_Protocol/kdc.py | [View File](Digital_Signatures_and_Authentication_Protocols/Needham_Schroeder_Authentication_Protocol/kdc.py) |
 | Needham_Schroeder_Authentication_Protocol/server.py | [View File](Digital_Signatures_and_Authentication_Protocols/Needham_Schroeder_Authentication_Protocol/server.py) |
 
-### 4. Hash_and_MAC_Functions
+### 5. Hash_and_MAC_Functions
 
 | File Name | Link |
 |---|---|
 | HMAC_Algorithm.py | [View File](Hash_and_MAC_Functions/HMAC_Algorithm.py) |
 | SHA_512_Algorithm.py | [View File](Hash_and_MAC_Functions/SHA_512_Algorithm.py) |
 
-### 5. Modes_of_Operation
+### 6. Modes_of_Operation
 
 | File Name | Link |
 |---|---|
@@ -72,7 +81,7 @@ This repository contains practical implementations of cryptographic algorithms, 
 | Message_Padding.py | [View File](Modes_of_Operation/Message_Padding.py) |
 | Output_Feedback_OFB.py | [View File](Modes_of_Operation/Output_Feedback_OFB.py) |
 
-### 6. Placement_of_Encryption
+### 7. Placement_of_Encryption
 
 | File Name | Link |
 |---|---|
@@ -86,7 +95,7 @@ This repository contains practical implementations of cryptographic algorithms, 
 | Link_to_Link_Encryption/router.py | [View File](Placement_of_Encryption/Link_to_Link_Encryption/router.py) |
 | Link_to_Link_Encryption/server.py | [View File](Placement_of_Encryption/Link_to_Link_Encryption/server.py) |
 
-### 7. Public_Key_Cryptography
+### 8. Public_Key_Cryptography
 
 | File Name | Link |
 |---|---|
@@ -94,7 +103,7 @@ This repository contains practical implementations of cryptographic algorithms, 
 | Elliptic_Curve_Cryptography_ECC.py | [View File](Public_Key_Cryptography/Elliptic_Curve_Cryptography_ECC.py) |
 | RSA_Algorithm.py | [View File](Public_Key_Cryptography/RSA_Algorithm.py) |
 
-### 8. Random_Number_Generators
+### 9. Random_Number_Generators
 
 | File Name | Link |
 |---|---|
@@ -104,7 +113,7 @@ This repository contains practical implementations of cryptographic algorithms, 
 | Pseudo_Random_Number_Generator_PRNG.py | [View File](Random_Number_Generators/Pseudo_Random_Number_Generator_PRNG.py) |
 | True_Random_Number_Generator_TRNG.py | [View File](Random_Number_Generators/True_Random_Number_Generator_TRNG.py) |
 
-### 9. Steganography
+### 10. Steganography
 
 | File Name | Link |
 |---|---|
@@ -114,7 +123,7 @@ This repository contains practical implementations of cryptographic algorithms, 
 | steganography_client.py | [View File](Steganography/steganography_client.py) |
 | steganography_server.py | [View File](Steganography/steganography_server.py) |
 
-### 10. Symmetric_Key_Cryptography
+### 11. Symmetric_Key_Cryptography
 
 | File Name | Link |
 |---|---|
@@ -124,6 +133,6 @@ This repository contains practical implementations of cryptographic algorithms, 
 
 ---
 
-**Total Files:** 64
+**Total Files:** 68
 
 *README automatically generated using GitHub Actions.*
