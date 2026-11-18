@@ -37,7 +37,14 @@ This repository contains practical implementations of cryptographic algorithms, 
 | row_transposition_client.py | [View File](Ciphers/row_transposition_client.py) |
 | row_transposition_server.py | [View File](Ciphers/row_transposition_server.py) |
 
-### 3. Modes_of_Operation
+### 3. Hash_and_MAC_Functions
+
+| File Name | Link |
+|---|---|
+| HMAC_Algorithm.py | [View File](Hash_and_MAC_Functions/HMAC_Algorithm.py) |
+| SHA_512_Algorithm.py | [View File](Hash_and_MAC_Functions/SHA_512_Algorithm.py) |
+
+### 4. Modes_of_Operation
 
 | File Name | Link |
 |---|---|
@@ -48,7 +55,7 @@ This repository contains practical implementations of cryptographic algorithms, 
 | Message_Padding.py | [View File](Modes_of_Operation/Message_Padding.py) |
 | Output_Feedback_OFB.py | [View File](Modes_of_Operation/Output_Feedback_OFB.py) |
 
-### 4. Public_Key_Cryptography
+### 5. Public_Key_Cryptography
 
 | File Name | Link |
 |---|---|
@@ -56,7 +63,7 @@ This repository contains practical implementations of cryptographic algorithms, 
 | Elliptic_Curve_Cryptography_ECC.py | [View File](Public_Key_Cryptography/Elliptic_Curve_Cryptography_ECC.py) |
 | RSA_Algorithm.py | [View File](Public_Key_Cryptography/RSA_Algorithm.py) |
 
-### 5. Random_Number_Generators
+### 6. Random_Number_Generators
 
 | File Name | Link |
 |---|---|
@@ -66,7 +73,7 @@ This repository contains practical implementations of cryptographic algorithms, 
 | Pseudo_Random_Number_Generator_PRNG.py | [View File](Random_Number_Generators/Pseudo_Random_Number_Generator_PRNG.py) |
 | True_Random_Number_Generator_TRNG.py | [View File](Random_Number_Generators/True_Random_Number_Generator_TRNG.py) |
 
-### 6. Steganography
+### 7. Steganography
 
 | File Name | Link |
 |---|---|
@@ -76,7 +83,7 @@ This repository contains practical implementations of cryptographic algorithms, 
 | steganography_client.py | [View File](Steganography/steganography_client.py) |
 | steganography_server.py | [View File](Steganography/steganography_server.py) |
 
-### 7. Symmetric_Key_Cryptography
+### 8. Symmetric_Key_Cryptography
 
 | File Name | Link |
 |---|---|
@@ -86,6 +93,6 @@ This repository contains practical implementations of cryptographic algorithms, 
 
 ---
 
-**Total Files:** 41
+**Total Files:** 43
 
 *README automatically generated using GitHub Actions.*
